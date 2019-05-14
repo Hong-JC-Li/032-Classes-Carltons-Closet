@@ -1,0 +1,44 @@
+.red {
+    color: red;
+}
+
+.striped {
+    text-decoration: line-through;
+}
+
+.yellow {
+    color: yellow;
+}
+.green {
+    color:green;
+}
+.blue {
+    color: blue;
+}
+
+.shirt {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img {
+    width: 300px;
+}
